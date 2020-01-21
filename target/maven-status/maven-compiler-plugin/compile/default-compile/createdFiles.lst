@@ -1,0 +1,10 @@
+com/myself/mongodb/service/impl/MessageLogServiceQuerydslImpl.class
+com/myself/mongodb/config/Swagger2.class
+com/myself/mongodb/entity/MessageLogDO.class
+com/myself/mongodb/service/impl/MessageLogServiceImpl.class
+com/myself/mongodb/controller/MongoMessageLogController.class
+com/myself/mongodb/service/IMessageLogService.class
+com/myself/mongodb/service/impl/MessageLogServiceNewImpl.class
+com/myself/mongodb/MongodbApplication.class
+com/myself/mongodb/entity/QMessageLogDO.class
+com/myself/mongodb/dao/MessageLogRepository.class
